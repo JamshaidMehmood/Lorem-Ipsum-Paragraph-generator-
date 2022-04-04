@@ -1,0 +1,35 @@
+body
+{
+    background-color: blanchedalmond;
+}
+.content-center
+{
+    background-color: white;
+    margin: 100px;
+    padding: 20px;
+    border-radius: 20px;
+    border:3px solid black;
+}
+.heading
+{
+    color:#071b93;
+    font-size: xx-large;
+}
+#amount
+{
+    background-color: wheat;
+
+}
+.btn
+{
+    background-color:#e7d617;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+.r-text
+{
+    
+    font-size: x-large;
+}
+
